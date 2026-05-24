@@ -30,7 +30,7 @@
   "homepage": "https://github.com/vladislav997/react-native-pill-tabs#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladislav997/react-native-pill-tabs.git"
+    "url": "git+https://github.com/vladislav997/react-native-pill-tabs.git"
   },
   "bugs": {
     "url": "https://github.com/vladislav997/react-native-pill-tabs/issues"
